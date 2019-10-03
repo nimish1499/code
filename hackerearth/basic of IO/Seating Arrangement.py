@@ -1,4 +1,4 @@
-for _ in range(int(input())):
+for i in range(int(input())):
     n = int(input())
     s = n % 12
     if s == 0:
