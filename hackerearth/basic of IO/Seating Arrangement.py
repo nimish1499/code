@@ -14,3 +14,4 @@ for i in range(int(input())):
         print(n, "MS")
     else:
         print(n, "AS")
+    
